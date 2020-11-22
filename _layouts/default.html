@@ -23,6 +23,7 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h1>{% include navigation.html %}</h1>
 
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
@@ -34,7 +35,6 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <h1>{% include navigation.html %}</h1>
       {{ content }}
 
       <footer class="site-footer">
