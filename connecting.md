@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About
+title: Connecting
 ---
-# About page
+<H1>{{ title }}</H1>
 
 Each Virtual Meeting Room is accessed using its unique conference ID number.
 
@@ -13,4 +13,4 @@ First you contact the central directory (opening the app or website), then you a
 
 For someone using a CompanyX-registered endpoint, it’s even possible to dial in with just the conference ID for a CompanyX Virtual Meeting Room, like dialling a colleague’s extension on a shared office phone system without having to enter their full phone number.
 
-The technology may look new, but as you get to know it you may find that it’s still used in very familiar ways.
+The technology may look new, but as you get to know it you'll find that it’s still used in very familiar ways.

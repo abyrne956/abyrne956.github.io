@@ -10,4 +10,5 @@ People can book a Virtual Meeting Room on their calendar and invite other people
 When everyone is in the room, they can see and hear each other as well as display presentations and collaborate on documents using their computers or tablets.
 
 It will look slightly different inside a Virtual Meeting Room depending on what type of interface you use, but here is a basic sketch:
+
 ![Sketch of typical interface](/assets/images/Interface Sketch.JPG)
