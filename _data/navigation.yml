@@ -1,6 +1,6 @@
-- name: Home
+- name: Introduction
   link: /
 - name: Connecting
   link: /connecting.html
-- name: Definitions  
+- name: Definitions
   link: /definitions.html

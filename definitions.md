@@ -2,8 +2,6 @@
 layout: default
 title: Definitions
 ---
-<H1>{{ title }}</H1>
-
 Conference ID
 
 A conference ID is a short string of numbers used to identify and connect to a specific Virtual Meeting Room.

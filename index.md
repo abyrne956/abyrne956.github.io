@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: Introduction
 ---
-Our company's Virtual Meeting Rooms do not support meetings in Virtual Reality (yet), but they have a lot of the same things that you would expect to find in a physical meeting room, apart from walls and furniture.
+CompanyX Virtual Meeting Rooms don't have virtual walls and furniture (yet), but they function a lot like physical meeting rooms in other important ways.
 
 People can book a Virtual Meeting Room in their calendar and invite other people to join them there.
 When everyone is in the room, they can see and hear each other as well as display presentations and collaborate on documents using their computers or tablets.
