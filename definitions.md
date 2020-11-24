@@ -8,7 +8,7 @@ A conference ID is a short string of numbers used to identify and connect to a s
 
 ## IP
 
-An IP (Internet Protocol) address is a string of numbers separated by dots, similar to a phone number, that identifies a specific location in a computer network and can be dialed using a [Room System](#room-system)’s remote control or number pad to start a video call.
+An IP (Internet Protocol) address is a string of numbers separated by dots, similar to a phone number, that identifies a specific location in a computer network and can be dialed using a [Room System's](#room-system) remote control or number pad to start a video call.
 
 ## Room System
 
@@ -20,7 +20,7 @@ Skype for Business is a Microsoft Office program used for secure video and chat 
 
 ## CompanyX registered endpoint
 
-CompanyX registered endpoints are [Room System](#room-system)s that can be contacted using a [URI](#uri) provided by CompanyX, mostly located at the Vancouver campus, the Okanagan campus and many hospital sites where CompanyX employees have offices.
+CompanyX registered endpoints are [Room Systems](#room-system) that can be contacted using a [URI](#uri) provided by CompanyX, mostly located at the Vancouver campus, the Okanagan campus and many hospital sites where CompanyX employees have offices.
 
 ## URI
 
@@ -28,4 +28,4 @@ A URI (Uniform Resource Identifier) is a string of letters, numbers and symbols,
 
 ## Virtual Meeting Room
 
-A Virtual Meeting Room creates a middle ground where you can bring together communication devices that used to be hard to connect to each other, including personal computers, [Room System](#room-system)s, tablets, smart phones and landline phones.
+A Virtual Meeting Room creates a middle ground where you can bring together communication devices that used to be hard to connect to each other, including personal computers, [Room Systems](#room-system), tablets, smart phones and landline phones.
