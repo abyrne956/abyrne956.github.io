@@ -26,6 +26,6 @@ CompanyX registered endpoints are [Room System](#room-system)s that can be conta
 
 A URI (Uniform Resource Identifier) is a string of letters, numbers and symbols, similar to an email address, that identifies a specific location in a computer network and can be typed into a [Room System](#room-system) or a desktop/web/mobile app to start a video call.
 
-<h1>Virtual Meeting Room</h1>
+# Virtual Meeting Room
 
 A Virtual Meeting Room creates a middle ground where you can bring together communication devices that used to be hard to connect to each other, including personal computers, [Room System](#room-system)s, tablets, smart phones and landline phones.

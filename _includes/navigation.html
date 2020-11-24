@@ -1,6 +1,6 @@
 <nav>
   {% for item in site.data.navigation %}
-    <<span class="header">
+    <span class="header">
     <a href="{{ item.link }}" {% if page.url == item.link %} class="header current" {% else %} class="header" {% endif %}>
       {{ item.name }}
     </a>
