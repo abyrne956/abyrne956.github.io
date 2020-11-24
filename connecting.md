@@ -15,8 +15,8 @@ The technology may look new, but as you get to know it you'll find that it’s s
 
 ## The following guides are posted in all CompanyX video-capable meeting rooms:
 
-[Room System Video Conferencing Guide](/assets/Room-System-Video-Conferencing.pdf)
+[Room System Video Conferencing Guide](/assets/documents/Room-System-Video-Conferencing.pdf)
 
-[Room PC Web Conferencing Guide](/assets/Room-PC-Web-Conferencing.pdf)
+[Room PC Web Conferencing Guide](/assets/documents/Room-PC-Web-Conferencing.pdf)
 
-[Laptop Web Conferencing Guide](/assets/Laptop-Web-Conferencing.pdf)
+[Laptop Web Conferencing Guide](/assets/documents/Laptop-Web-Conferencing.pdf)
