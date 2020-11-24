@@ -13,8 +13,10 @@ For someone using a [CompanyX registered endpoint](definitions.html#companyx-reg
 
 The technology may look new, but as you get to know it you'll find that it’s still used in very familiar ways.
 
-[Video Conferencing Guide](assets/documents/Video-Conferencing.PDF)
+## The following guides are posted in all CompanyX video-capable meeting rooms:
 
-[Room PC Web Conferencing Guide](assets/documents/Room-PC-Web-Conferencing.PDF)
+[Room System Video Conferencing Guide](Room-System-Video-Conferencing.pdf)
 
-[Laptop Web Conferencing Guide](assets/documents/Laptop-Web-Conferencing.PDF)
+[Room PC Web Conferencing Guide](Room-PC-Web-Conferencing.pdf)
+
+[Laptop Web Conferencing Guide](Laptop-Web-Conferencing.pdf)
